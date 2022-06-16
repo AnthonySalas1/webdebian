@@ -1,0 +1,23 @@
+{
+  "name": "webdebian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonySalas1/webdebian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonySalas1/webdebian/issues"
+  },
+  "homepage": "https://github.com/AnthonySalas1/webdebian#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "underscore": "^1.13.4"
+  }
+}
